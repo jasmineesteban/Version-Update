@@ -1,1 +1,1 @@
-# PriceScannerV1
+# PriceScannerV3
